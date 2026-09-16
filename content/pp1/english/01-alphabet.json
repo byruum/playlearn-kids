@@ -1,0 +1,14 @@
+{
+  "id": "pp1-eng-01",
+  "class": "PP1",
+  "subject": "English",
+  "cbc_topic": "Alphabet",
+  "title": "ABC Fun",
+  "type": "game",
+  "instructions": "Tap the correct letter",
+  "items": [
+    {"question": "Find B", "answer": "B", "options": ["A", "B", "C"]},
+    {"question": "Find E", "answer": "E", "options": ["D", "E", "F"]}
+  ],
+  "is_free": true
+}

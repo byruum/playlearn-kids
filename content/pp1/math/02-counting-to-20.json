@@ -1,0 +1,14 @@
+{
+  "id": "pp1-math-02",
+  "class": "PP1",
+  "subject": "Math",
+  "cbc_topic": "Counting to 20",
+  "title": "Count Up",
+  "type": "game",
+  "instructions": "Tap the correct number",
+  "items": [
+    {"question": "Find 15", "answer": "15", "options": ["12", "15", "18"]},
+    {"question": "Find 20", "answer": "20", "options": ["17", "20", "13"]}
+  ],
+  "is_free": true
+}

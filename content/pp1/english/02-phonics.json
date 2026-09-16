@@ -1,0 +1,14 @@
+{
+  "id": "pp1-eng-02",
+  "class": "PP1",
+  "subject": "English",
+  "cbc_topic": "Phonics",
+  "title": "Sounds",
+  "type": "game",
+  "instructions": "Match the sound",
+  "items": [
+    {"question": "a says?", "answer": "ah", "options": ["ah", "buh", "cuh"]},
+    {"question": "b says?", "answer": "buh", "options": ["ah", "buh", "duh"]}
+  ],
+  "is_free": true
+}

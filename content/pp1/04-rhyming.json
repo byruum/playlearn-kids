@@ -1,0 +1,14 @@
+{
+  "id": "pp1-eng-04",
+  "class": "PP1",
+  "subject": "English",
+  "cbc_topic": "Rhyming",
+  "title": "Rhyme Time",
+  "type": "game",
+  "instructions": "Find the rhyming word",
+  "items": [
+    {"question": "cat rhymes with?", "answer": "hat", "options": ["hat", "dog", "sun"]},
+    {"question": "ball rhymes with?", "answer": "tall", "options": ["tall", "box", "pen"]}
+  ],
+  "is_free": true
+}

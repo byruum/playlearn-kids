@@ -1,0 +1,14 @@
+{
+  "id": "pp1-eng-03",
+  "class": "PP1",
+  "subject": "English",
+  "cbc_topic": "Simple words",
+  "title": "Word Time",
+  "type": "game",
+  "instructions": "Tap the correct word",
+  "items": [
+    {"question": "cat", "answer": "cat", "options": ["cat", "dog", "pig"]},
+    {"question": "sun", "answer": "sun", "options": ["moon", "sun", "star"]}
+  ],
+  "is_free": true
+}

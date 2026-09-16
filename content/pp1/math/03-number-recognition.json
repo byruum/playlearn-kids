@@ -1,0 +1,14 @@
+{
+  "id": "pp1-math-03",
+  "class": "PP1",
+  "subject": "Math",
+  "cbc_topic": "Number recognition",
+  "title": "Find the Number",
+  "type": "game",
+  "instructions": "Tap the correct number",
+  "items": [
+    {"question": "Find 7", "answer": "7", "options": ["7", "1", "9"]},
+    {"question": "Find 12", "answer": "12", "options": ["21", "12", "10"]}
+  ],
+  "is_free": true
+}

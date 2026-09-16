@@ -1,0 +1,14 @@
+{
+  "id": "pp1-math-05",
+  "class": "PP1",
+  "subject": "Math",
+  "cbc_topic": "Subtraction within 10",
+  "title": "Take Away",
+  "type": "game",
+  "instructions": "Subtract to find",
+  "items": [
+    {"question": "5 - 2 = ?", "answer": "3", "options": ["2", "3", "4"]},
+    {"question": "7 - 3 = ?", "answer": "4", "options": ["4", "5", "3"]}
+  ],
+  "is_free": true
+}
